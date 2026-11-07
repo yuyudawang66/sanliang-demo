@@ -1,0 +1,7 @@
+/* Shared homepage and brand-list typography. Keep their visual hierarchy in one place. */
+.card h2,.brand-product h3,.card .eyebrow,.brand-product .eyebrow,.card .meta,.brand-product .meta{font-family:"Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;font-synthesis:none;letter-spacing:0}
+.card h2,.brand-product h3{font-size:14px;font-weight:500;line-height:14px;color:#111;margin-top:8px}
+.card .eyebrow,.brand-product .eyebrow{font-size:10px;font-weight:400;line-height:10px;color:#d09e48;margin-top:0}
+.card .meta,.brand-product .meta{font-size:10px;font-weight:400;line-height:10px;color:#0006;margin-top:8px}
+.card .price,.brand-product .brand-price{font-family:"SanliangPriceReference","Times New Roman",Times,serif;font-size:14px;font-weight:400;line-height:14px;color:#111;margin-top:8px;font-synthesis:none;font-variant-numeric:lining-nums proportional-nums;-webkit-text-stroke:.14px #fff}
+.card .price small,.brand-product .brand-price small{font:400 10px/14px "SanliangPriceReference","Times New Roman",Times,serif}

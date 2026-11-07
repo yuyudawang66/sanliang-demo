@@ -1,0 +1,496 @@
+[
+  {
+    "localPath": "assets/product-detail/decorations/report-authentication-stamp.svg",
+    "sourceNodeIds": [
+      "I72:2583;72:2487"
+    ],
+    "intrinsicSize": {
+      "width": "325",
+      "height": "90",
+      "viewBox": "0 0 325 90"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/decorations/report-background.png",
+    "sourceNodeIds": [
+      "I72:2583;72:2461"
+    ],
+    "intrinsicSize": {
+      "width": 351,
+      "height": 439
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/decorations/report-card-shape.svg",
+    "sourceNodeIds": [
+      "I72:2583;72:2460"
+    ],
+    "intrinsicSize": {
+      "width": "353",
+      "height": "443",
+      "viewBox": "0 0 353 443"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/decorations/report-header-pattern.svg",
+    "sourceNodeIds": [
+      "I72:2583;72:2457"
+    ],
+    "intrinsicSize": {
+      "width": "113",
+      "height": "50",
+      "viewBox": "0 0 113 50"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/decorations/report-official-logo-detail.svg",
+    "sourceNodeIds": [
+      "I72:2583;72:2520"
+    ],
+    "intrinsicSize": {
+      "width": "8",
+      "height": "3",
+      "viewBox": "0 0 8 3"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/decorations/report-official-logo-main.svg",
+    "sourceNodeIds": [
+      "I72:2583;72:2519"
+    ],
+    "intrinsicSize": {
+      "width": "21",
+      "height": "8",
+      "viewBox": "0 0 21 8"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/decorations/report-official-mark.svg",
+    "sourceNodeIds": [
+      "I72:2583;72:2481"
+    ],
+    "intrinsicSize": {
+      "width": "37",
+      "height": "15",
+      "viewBox": "0 0 37 15"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/decorations/report-score-frame.svg",
+    "sourceNodeIds": [
+      "I72:2583;72:2469"
+    ],
+    "intrinsicSize": {
+      "width": "327",
+      "height": "327",
+      "viewBox": "0 0 327 327"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/decorations/section-title-accent.svg",
+    "sourceNodeIds": [
+      "I72:2652;72:2541"
+    ],
+    "intrinsicSize": {
+      "width": "22",
+      "height": "10",
+      "viewBox": "0 0 22 10"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/originals/lv-nano-speedy-angled-730.png",
+    "sourceNodeIds": [
+      "72:2339",
+      "72:2340",
+      "72:2341",
+      "I72:2652;72:2538"
+    ],
+    "intrinsicSize": {
+      "width": 730,
+      "height": 730
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/originals/lv-nano-speedy-front-1090.png",
+    "sourceNodeIds": [
+      "72:2323",
+      "I72:2652;72:2540"
+    ],
+    "intrinsicSize": {
+      "width": 1090,
+      "height": 1090
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/originals/lv-nano-speedy-top-730.png",
+    "sourceNodeIds": [
+      "I72:2652;72:2539"
+    ],
+    "intrinsicSize": {
+      "width": 730,
+      "height": 730
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/badge-bestseller.svg",
+    "sourceNodeIds": [
+      "72:2362"
+    ],
+    "intrinsicSize": {
+      "width": "63",
+      "height": "22",
+      "viewBox": "0 0 63 22"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/badge-dispatch-24h.svg",
+    "sourceNodeIds": [
+      "72:2391"
+    ],
+    "intrinsicSize": {
+      "width": "83",
+      "height": "20",
+      "viewBox": "0 0 83 20"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/badge-dispatch-day-after-tomorrow.svg",
+    "sourceNodeIds": [
+      "72:2396"
+    ],
+    "intrinsicSize": {
+      "width": "58",
+      "height": "20",
+      "viewBox": "0 0 58 20"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/coupon-cash.svg",
+    "sourceNodeIds": [
+      "72:2699"
+    ],
+    "intrinsicSize": {
+      "width": "124",
+      "height": "18",
+      "viewBox": "0 0 124 18"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/coupon-shipping.svg",
+    "sourceNodeIds": [
+      "72:2724"
+    ],
+    "intrinsicSize": {
+      "width": "124",
+      "height": "18",
+      "viewBox": "0 0 124 18"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-back.svg",
+    "sourceNodeIds": [
+      "72:2326"
+    ],
+    "intrinsicSize": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-bestseller.svg",
+    "sourceNodeIds": [
+      "72:2366"
+    ],
+    "intrinsicSize": {
+      "width": "11",
+      "height": "11",
+      "viewBox": "0 0 11 11"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-brand-chevron.svg",
+    "sourceNodeIds": [
+      "72:2439"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-cart.svg",
+    "sourceNodeIds": [
+      "I72:2677;72:2575"
+    ],
+    "intrinsicSize": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-check.svg",
+    "sourceNodeIds": [
+      "72:2382"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-condition-chevron.svg",
+    "sourceNodeIds": [
+      "72:2345"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-coupon-chevron.svg",
+    "sourceNodeIds": [
+      "72:2375"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-customer-support.svg",
+    "sourceNodeIds": [
+      "I72:2677;72:2571"
+    ],
+    "intrinsicSize": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-delivery-chevron.svg",
+    "sourceNodeIds": [
+      "72:2377"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-faq-expand.svg",
+    "sourceNodeIds": [
+      "72:2557"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-favorite.svg",
+    "sourceNodeIds": [
+      "I72:2677;72:2573"
+    ],
+    "intrinsicSize": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-help.svg",
+    "sourceNodeIds": [
+      "72:2524"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-photo-expand.svg",
+    "sourceNodeIds": [
+      "72:2543"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-protection.svg",
+    "sourceNodeIds": [
+      "72:2385"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-service-chevron.svg",
+    "sourceNodeIds": [
+      "72:2373"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-share.svg",
+    "sourceNodeIds": [
+      "72:2327"
+    ],
+    "intrinsicSize": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-size-chevron.svg",
+    "sourceNodeIds": [
+      "72:2433"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-time.svg",
+    "sourceNodeIds": [
+      "72:2388"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/icon-variants-chevron.svg",
+    "sourceNodeIds": [
+      "72:2349"
+    ],
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/system-home-indicator.svg",
+    "sourceNodeIds": [
+      "I72:2677;72:2562"
+    ],
+    "intrinsicSize": {
+      "width": "375",
+      "height": "34",
+      "viewBox": "0 0 375 34"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  },
+  {
+    "localPath": "assets/product-detail/svg/system-status.svg",
+    "sourceNodeIds": [
+      "72:2307"
+    ],
+    "intrinsicSize": {
+      "width": "375",
+      "height": "44",
+      "viewBox": "0 0 375 44"
+    },
+    "status": "verified",
+    "usage": "product.html"
+  }
+]

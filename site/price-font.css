@@ -1,0 +1,5 @@
+@font-face{font-family:"SanliangPriceReference";src:local("Times New Roman"),local("TimesNewRomanPSMT");font-style:normal;font-weight:400;font-display:swap}
+.price,.price small,#detail>strong{font-family:"SanliangPriceReference","Times New Roman",Times,serif;font-style:normal;font-weight:400;font-synthesis:none;font-variant-numeric:lining-nums proportional-nums}
+
+/* Subtle stroke reduction; Times New Roman has no native light weight. */
+.price,.price small,#detail>strong{-webkit-text-stroke:.14px #fff}

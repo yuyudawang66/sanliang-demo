@@ -1,0 +1,3 @@
+RollingNumber.update(document.querySelector('#product-price'),17680,{integerDigits:5,duration:780,respectReducedMotion:false});
+RollingNumber.update(document.querySelector('#balance'),24092.67,{integerDigits:6,decimals:2,grouping:true,duration:780,respectReducedMotion:false});
+for(const [group,target]of [['conditions','product-price'],['amounts','balance']])document.querySelectorAll('#'+group+' button').forEach(button=>button.onclick=()=>{document.querySelectorAll('#'+group+' button').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));RollingNumber.update(document.getElementById(target),Number(button.dataset.value))});

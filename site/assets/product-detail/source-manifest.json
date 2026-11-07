@@ -1,0 +1,1334 @@
+{
+  "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+  "sourceNodeId": "72:2300",
+  "pageSize": {
+    "width": 375,
+    "height": 2001
+  },
+  "counts": {
+    "png": 22,
+    "svg": 44
+  },
+  "assets": [
+    {
+      "name": "product-condition",
+      "category": "crops",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2339"
+      ],
+      "localPath": "crops/product-condition.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 31,
+        "height": 22
+      },
+      "usage": "crops/product-condition",
+      "status": "verified",
+      "bytes": 1523,
+      "sha256": "efb7cbb2f1903aeeb40728a3146226ff03c2a4fec25db52b4a23d93f4d80404e",
+      "hasTransparency": true,
+      "notes": "Exact layer crop exported at design size; high-resolution unmodified source is in originals/."
+    },
+    {
+      "name": "product-gallery",
+      "category": "crops",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2323"
+      ],
+      "localPath": "crops/product-gallery.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 352,
+        "height": 235
+      },
+      "usage": "product-gallery",
+      "status": "verified",
+      "bytes": 74599,
+      "sha256": "3362057a47cc34283b4eadcf0dea6310f8f5f5462b151f0171cbed6f974a3d0d",
+      "hasTransparency": true,
+      "notes": "Exact layer crop exported at design size; high-resolution unmodified source is in originals/."
+    },
+    {
+      "name": "product-photo-front",
+      "category": "crops",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2652;72:2540"
+      ],
+      "localPath": "crops/product-photo-front.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 187,
+        "height": 122
+      },
+      "usage": "crops/product-photo-front",
+      "status": "verified",
+      "bytes": 21998,
+      "sha256": "0fb445431764d4b8b2010f0fdbaa5a45e781e2bed994d02baf683c0421c2c533",
+      "hasTransparency": true,
+      "notes": "Exact layer crop exported at design size; high-resolution unmodified source is in originals/."
+    },
+    {
+      "name": "product-photo-main",
+      "category": "crops",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2652;72:2538"
+      ],
+      "localPath": "crops/product-photo-main.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 253,
+        "height": 176
+      },
+      "usage": "crops/product-photo-main",
+      "status": "verified",
+      "bytes": 45799,
+      "sha256": "0731acd669d3400d642b93a6e59b7a38081e7377d400f848244eef7bcdf303e1",
+      "hasTransparency": true,
+      "notes": "Exact layer crop exported at design size; high-resolution unmodified source is in originals/."
+    },
+    {
+      "name": "product-photo-top",
+      "category": "crops",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2652;72:2539"
+      ],
+      "localPath": "crops/product-photo-top.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 151,
+        "height": 125
+      },
+      "usage": "crops/product-photo-top",
+      "status": "verified",
+      "bytes": 25533,
+      "sha256": "6cdee6bb40098b1f18be73eccf740ae108aac5cf5cec992cd0bca59d553050f7",
+      "hasTransparency": true,
+      "notes": "Exact layer crop exported at design size; high-resolution unmodified source is in originals/."
+    },
+    {
+      "name": "coupon-cash-background",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2699;72:2407"
+      ],
+      "localPath": "decorations/coupon-cash-background.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "119",
+        "height": "18",
+        "viewBox": "0 0 119 18"
+      },
+      "usage": "Subtract",
+      "status": "verified",
+      "bytes": 549,
+      "sha256": "d7efa1626467043c4e3fb250ef753ad4112f54338953988eec0e06d8ce0f56ba",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "coupon-shipping-background",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2724;72:2419"
+      ],
+      "localPath": "decorations/coupon-shipping-background.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "120",
+        "height": "18",
+        "viewBox": "0 0 120 18"
+      },
+      "usage": "Subtract",
+      "status": "verified",
+      "bytes": 554,
+      "sha256": "473f441e29b0ee991745fa93f585240307fb73f8801394ad44e81248f25fff93",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "gallery-background",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2302"
+      ],
+      "localPath": "decorations/gallery-background.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "375",
+        "height": "354",
+        "viewBox": "0 0 375 354"
+      },
+      "usage": "cf9556f8-c919-4064-a65a-b0cdcb56fde6 1",
+      "status": "verified",
+      "bytes": 210,
+      "sha256": "d37e91c768985a65aa8f738a81256956bf9d08c598495df4d6dccb8a94c14f61",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "gallery-overlay",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2303"
+      ],
+      "localPath": "decorations/gallery-overlay.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "374",
+        "height": "127",
+        "viewBox": "0 0 374 127"
+      },
+      "usage": "Rectangle 2036104108",
+      "status": "verified",
+      "bytes": 457,
+      "sha256": "52b9f5fe2ff6f308891df2f9eb819f10a212902ee823c16637542286d4ddc593",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "gallery-tab-background",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2319"
+      ],
+      "localPath": "decorations/gallery-tab-background.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "125",
+        "height": "32",
+        "viewBox": "0 0 125 32"
+      },
+      "usage": "Rectangle 455655372",
+      "status": "verified",
+      "bytes": 159,
+      "sha256": "3a94fed05e41742ed295d6f79eeb2d10b5bbcb367837b3a6f0cf1ef3c5c4f5e2",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "report-authentication-stamp",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2487"
+      ],
+      "localPath": "decorations/report-authentication-stamp.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 325,
+        "height": 90
+      },
+      "usage": "Mask group",
+      "status": "verified",
+      "bytes": 15053,
+      "sha256": "011270add8fa43235a1baa995d4991c3bf6460f82ad186cccc0d3045a63afe3e",
+      "hasTransparency": true
+    },
+    {
+      "name": "report-authentication-stamp",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2487"
+      ],
+      "localPath": "decorations/report-authentication-stamp.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "325",
+        "height": "90",
+        "viewBox": "0 0 325 90"
+      },
+      "usage": "decorations/report-authentication-stamp",
+      "status": "verified",
+      "bytes": 37365,
+      "sha256": "e1e4ff0e02e347327d296d6594ff40a90eddb5edec449e694ed382498bf5f709",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "report-background",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2461"
+      ],
+      "localPath": "decorations/report-background.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 351,
+        "height": 439
+      },
+      "usage": "decorations/report-background",
+      "status": "verified",
+      "bytes": 90072,
+      "sha256": "1f1a23b986959babc4692909fba0996358766325871aa1898d044f09371db6ac",
+      "hasTransparency": true
+    },
+    {
+      "name": "report-card-shape",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2460"
+      ],
+      "localPath": "decorations/report-card-shape.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "353",
+        "height": "443",
+        "viewBox": "0 0 353 443"
+      },
+      "usage": "Rectangle 2036104404",
+      "status": "verified",
+      "bytes": 1015,
+      "sha256": "40ba5b2893d1fa644731733c1160f17d592c3086b600591c442d82bae997fa46",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "report-header-pattern",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2457"
+      ],
+      "localPath": "decorations/report-header-pattern.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 113,
+        "height": 50
+      },
+      "usage": "Mask group",
+      "status": "verified",
+      "bytes": 3994,
+      "sha256": "b6d955a482325e4c73b31045de6b94019e87b9b5dc140a873331c0a185affa90",
+      "hasTransparency": true
+    },
+    {
+      "name": "report-header-pattern",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2457"
+      ],
+      "localPath": "decorations/report-header-pattern.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "113",
+        "height": "50",
+        "viewBox": "0 0 113 50"
+      },
+      "usage": "decorations/report-header-pattern",
+      "status": "verified",
+      "bytes": 27777,
+      "sha256": "2c27d3728791f19d8b302d76af72dac3667d5767e0c40172f7380c954e29ae63",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "report-official-logo-detail",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2520"
+      ],
+      "localPath": "decorations/report-official-logo-detail.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "8",
+        "height": "3",
+        "viewBox": "0 0 8 3"
+      },
+      "usage": "Union",
+      "status": "verified",
+      "bytes": 1977,
+      "sha256": "88bda616b302ec68bd8996dcd2e9d2a0d792cfbe0061e5740961290f0cf0f0c5",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "report-official-logo-main",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2519"
+      ],
+      "localPath": "decorations/report-official-logo-main.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "21",
+        "height": "8",
+        "viewBox": "0 0 21 8"
+      },
+      "usage": "Union",
+      "status": "verified",
+      "bytes": 1974,
+      "sha256": "731d8535b1d2981b9a4e5fb1919cbb81f47ccaf46a0c36fe20a956df16197ba6",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "report-official-mark",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2481"
+      ],
+      "localPath": "decorations/report-official-mark.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "37",
+        "height": "15",
+        "viewBox": "0 0 37 15"
+      },
+      "usage": "官方检测",
+      "status": "verified",
+      "bytes": 2482,
+      "sha256": "a76dcef6f34f2b3f5874301e899b556b2cea2133749eda7e8d8e4e2c4cbd9099",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "report-score-frame",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2469"
+      ],
+      "localPath": "decorations/report-score-frame.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "327",
+        "height": "327",
+        "viewBox": "0 0 327 327"
+      },
+      "usage": "Subtract",
+      "status": "verified",
+      "bytes": 728,
+      "sha256": "2ec6e045af9b37474fe41aa23d942955377dd7478071b35cea43692cae2b6c42",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "section-title-accent",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2652;72:2541"
+      ],
+      "localPath": "decorations/section-title-accent.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "22",
+        "height": "10",
+        "viewBox": "0 0 22 10"
+      },
+      "usage": "Rectangle 2036104563",
+      "status": "verified",
+      "bytes": 197,
+      "sha256": "5e9ed99948ef9085192c27a924a9c7465681697e94d553615b734479a89090fb",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "watermark-sanliang-large",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2466"
+      ],
+      "localPath": "decorations/watermark-sanliang-large.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "208",
+        "height": "31",
+        "viewBox": "0 0 208 31"
+      },
+      "usage": "decorations/watermark-sanliang-large",
+      "status": "verified",
+      "bytes": 3873,
+      "sha256": "e02eab826544a6000f2410e2b76d25aca4064540b2624cd2a813b5a6b3e0db12",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "watermark-sanliang-small",
+      "category": "decorations",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2467"
+      ],
+      "localPath": "decorations/watermark-sanliang-small.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "77",
+        "height": "13",
+        "viewBox": "0 0 77 13"
+      },
+      "usage": "decorations/watermark-sanliang-small",
+      "status": "verified",
+      "bytes": 3913,
+      "sha256": "ac1f9648c96a4bf751f2a87d157979aacbc9aa671598998430c2accb7bf55fe3",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "background-neutral-pattern-240",
+      "category": "originals",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2300"
+      ],
+      "localPath": "originals/background-neutral-pattern-240.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 240,
+        "height": 427
+      },
+      "usage": "background-neutral-pattern-240",
+      "status": "verified",
+      "bytes": 198897,
+      "sha256": "43b5b54b696ffe513d5907d513e8d491de77e979c114753d738dadc9cc89c2c3",
+      "hasTransparency": true,
+      "notes": "Additional image returned by Figma; exact visible slot not identified; kept separately."
+    },
+    {
+      "name": "lv-nano-speedy-angled-365",
+      "category": "originals",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2339",
+        "72:2340",
+        "72:2341",
+        "I72:2652;72:2538"
+      ],
+      "localPath": "originals/lv-nano-speedy-angled-365.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 365,
+        "height": 365
+      },
+      "usage": "lv-nano-speedy-angled-365",
+      "status": "verified",
+      "bytes": 69928,
+      "sha256": "6ca3bd1c9a04cc7e5b97f06eef4e253dfbbe33bebfbb63e984087aadce37ef08",
+      "hasTransparency": true,
+      "notes": "Unmodified Figma original image / supplied resolution variant; prefer the largest matching source. Variant mapping is by image family."
+    },
+    {
+      "name": "lv-nano-speedy-angled-730",
+      "category": "originals",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2339",
+        "72:2340",
+        "72:2341",
+        "I72:2652;72:2538"
+      ],
+      "localPath": "originals/lv-nano-speedy-angled-730.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 730,
+        "height": 730
+      },
+      "usage": "lv-nano-speedy-angled-730",
+      "status": "verified",
+      "bytes": 250854,
+      "sha256": "d1a4ac7e4d517419fc8a97de450980939b5e983f98ccf97dde2ffeb4586a7355",
+      "hasTransparency": true,
+      "notes": "Unmodified Figma original image / supplied resolution variant; prefer the largest matching source. Variant mapping is by image family."
+    },
+    {
+      "name": "lv-nano-speedy-front-1090",
+      "category": "originals",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2323",
+        "I72:2652;72:2540"
+      ],
+      "localPath": "originals/lv-nano-speedy-front-1090.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 1090,
+        "height": 1090
+      },
+      "usage": "lv-nano-speedy-front-1090",
+      "status": "verified",
+      "bytes": 640574,
+      "sha256": "b8abcc95ac566fbe28cc5c71edf8fa4bc7d910dc1f33d60dc42cc13a83f917dd",
+      "hasTransparency": true,
+      "notes": "Unmodified Figma original image / supplied resolution variant; prefer the largest matching source. Variant mapping is by image family."
+    },
+    {
+      "name": "lv-nano-speedy-front-273",
+      "category": "originals",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2323",
+        "I72:2652;72:2540"
+      ],
+      "localPath": "originals/lv-nano-speedy-front-273.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 273,
+        "height": 273
+      },
+      "usage": "lv-nano-speedy-front-273",
+      "status": "verified",
+      "bytes": 52003,
+      "sha256": "3805d3c528a823a834634ff74d3d54ca0070ffed4d4aa9b3aa40b12b49bd5e0a",
+      "hasTransparency": true,
+      "notes": "Unmodified Figma original image / supplied resolution variant; prefer the largest matching source. Variant mapping is by image family."
+    },
+    {
+      "name": "lv-nano-speedy-top-365",
+      "category": "originals",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2652;72:2539"
+      ],
+      "localPath": "originals/lv-nano-speedy-top-365.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 365,
+        "height": 365
+      },
+      "usage": "lv-nano-speedy-top-365",
+      "status": "verified",
+      "bytes": 85178,
+      "sha256": "dec1cfa4f2044a8b77562e0227e5fc2f784a0b2ee07fdabadd328e4466aa629f",
+      "hasTransparency": true,
+      "notes": "Unmodified Figma original image / supplied resolution variant; prefer the largest matching source. Variant mapping is by image family."
+    },
+    {
+      "name": "lv-nano-speedy-top-730",
+      "category": "originals",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2652;72:2539"
+      ],
+      "localPath": "originals/lv-nano-speedy-top-730.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 730,
+        "height": 730
+      },
+      "usage": "lv-nano-speedy-top-730",
+      "status": "verified",
+      "bytes": 306016,
+      "sha256": "366ee1bb141ef0f588257c130e7419c74543f596e535ccaa190e96c43375eaba",
+      "hasTransparency": true,
+      "notes": "Unmodified Figma original image / supplied resolution variant; prefer the largest matching source. Variant mapping is by image family."
+    },
+    {
+      "name": "report-iridescent-pattern-329",
+      "category": "originals",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2465"
+      ],
+      "localPath": "originals/report-iridescent-pattern-329.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 329,
+        "height": 333
+      },
+      "usage": "report-iridescent-pattern-329",
+      "status": "verified",
+      "bytes": 218108,
+      "sha256": "e2abd336d8ef20679709b36d0b52b3f9d846a734c05cc92be12d8f2f7e25fcce",
+      "hasTransparency": true,
+      "notes": "Unmodified Figma original image / supplied resolution variant; prefer the largest matching source. Variant mapping is by image family."
+    },
+    {
+      "name": "report-iridescent-pattern-658",
+      "category": "originals",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2583;72:2465"
+      ],
+      "localPath": "originals/report-iridescent-pattern-658.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 658,
+        "height": 666
+      },
+      "usage": "report-iridescent-pattern-658",
+      "status": "verified",
+      "bytes": 586187,
+      "sha256": "7c92aa97c345fe069b18e9c8054daf61240b9e1fc1fd34c731846593740e55fa",
+      "hasTransparency": true,
+      "notes": "Unmodified Figma original image / supplied resolution variant; prefer the largest matching source. Variant mapping is by image family."
+    },
+    {
+      "name": "coupon-cash",
+      "category": "png",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2699"
+      ],
+      "localPath": "png/coupon-cash.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 124,
+        "height": 18
+      },
+      "usage": "Sanliang / CashCoupon",
+      "status": "verified",
+      "bytes": 2263,
+      "sha256": "d532def9e3cbc8b2668cd93252078b4e249a8002b06d3e446142b783ec67b51b",
+      "hasTransparency": true
+    },
+    {
+      "name": "coupon-shipping",
+      "category": "png",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2724"
+      ],
+      "localPath": "png/coupon-shipping.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 124,
+        "height": 18
+      },
+      "usage": "Sanliang / ShippingCoupon",
+      "status": "verified",
+      "bytes": 2306,
+      "sha256": "49e1dca004587ad90994d4999f948cd3798f82ac9281fca4cf8b0c665d1f8fea",
+      "hasTransparency": true
+    },
+    {
+      "name": "authentication-report",
+      "category": "previews",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2583"
+      ],
+      "localPath": "previews/authentication-report.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 353,
+        "height": 443
+      },
+      "usage": "previews/authentication-report",
+      "status": "verified",
+      "bytes": 104480,
+      "sha256": "9d0e02ec32c6155d38e659cdf7287f7077cb782a0d2c1789c7918c10d388ec36",
+      "hasTransparency": true
+    },
+    {
+      "name": "page-preview",
+      "category": "previews",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2300"
+      ],
+      "localPath": "previews/page-preview.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 375,
+        "height": 2001
+      },
+      "usage": "page-preview",
+      "status": "verified",
+      "bytes": 360542,
+      "sha256": "12c6865ca4353cf778125082b8c795169e3eec821a7641c4465cd56099642bf2",
+      "hasTransparency": false
+    },
+    {
+      "name": "product-actions",
+      "category": "previews",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2677"
+      ],
+      "localPath": "previews/product-actions.png",
+      "format": "png",
+      "intrinsicSize": {
+        "width": 375,
+        "height": 92
+      },
+      "usage": "previews/product-actions",
+      "status": "verified",
+      "bytes": 4943,
+      "sha256": "c1b426491244a245393dd088501815ceb948e34e0673d82fb3fa8a3ac8c560c2",
+      "hasTransparency": false
+    },
+    {
+      "name": "badge-bestseller",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2362"
+      ],
+      "localPath": "svg/badge-bestseller.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "63",
+        "height": "22",
+        "viewBox": "0 0 63 22"
+      },
+      "usage": "Group 2147234855",
+      "status": "verified",
+      "bytes": 7157,
+      "sha256": "3b107a674d0ca56a1f49ff68411779e8d7c88df18e3d9940bde0dffe47dbafd7",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "badge-dispatch-24h",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2391"
+      ],
+      "localPath": "svg/badge-dispatch-24h.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "83",
+        "height": "20",
+        "viewBox": "0 0 83 20"
+      },
+      "usage": "Group 2147235431",
+      "status": "verified",
+      "bytes": 9007,
+      "sha256": "ad83a70962158e91500a9ccd6d2542183b59b67254f8b4bca6e6c59dc209d4fe",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "badge-dispatch-day-after-tomorrow",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2396"
+      ],
+      "localPath": "svg/badge-dispatch-day-after-tomorrow.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "58",
+        "height": "20",
+        "viewBox": "0 0 58 20"
+      },
+      "usage": "Group 2147235432",
+      "status": "verified",
+      "bytes": 4689,
+      "sha256": "ce6631f7554ce11c211a6c2c7ead22b297e5313f8c53f014540404144ca25a5c",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "coupon-cash",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2699"
+      ],
+      "localPath": "svg/coupon-cash.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "124",
+        "height": "18",
+        "viewBox": "0 0 124 18"
+      },
+      "usage": "svg/coupon-cash",
+      "status": "verified",
+      "bytes": 18497,
+      "sha256": "d8bcb4f3d46b0b53a963bffa43925d1c39c4a4bd8a08d99fa923dd6034363ff9",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "coupon-shipping",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2724"
+      ],
+      "localPath": "svg/coupon-shipping.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "124",
+        "height": "18",
+        "viewBox": "0 0 124 18"
+      },
+      "usage": "svg/coupon-shipping",
+      "status": "verified",
+      "bytes": 18494,
+      "sha256": "141465e7fb638e12eb3f3ee1c4512d3b2b43cb969022c8b320701aeea942aec1",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-back",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2326"
+      ],
+      "localPath": "svg/icon-back.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "24",
+        "height": "24",
+        "viewBox": "0 0 24 24"
+      },
+      "usage": "Left (左)",
+      "status": "verified",
+      "bytes": 239,
+      "sha256": "658db910bce1bab5d4d37073f7007213caf9fd0e75edc94f0c485bafdd33b5f2",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-bestseller",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2366"
+      ],
+      "localPath": "svg/icon-bestseller.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "11",
+        "height": "11",
+        "viewBox": "0 0 11 11"
+      },
+      "usage": "Frame",
+      "status": "verified",
+      "bytes": 671,
+      "sha256": "603458f8a2b0b398a874b3ae88d059f1a6d9f0a4c9bb58767e844020d2164319",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-brand-chevron",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2439"
+      ],
+      "localPath": "svg/icon-brand-chevron.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Frame 2147262352",
+      "status": "verified",
+      "bytes": 589,
+      "sha256": "b1f52b82981df80f79e69e29e29b065deafb2760961b8f32438755c1a048bf8f",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-cart",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2677;72:2575"
+      ],
+      "localPath": "svg/icon-cart.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "24",
+        "height": "24",
+        "viewBox": "0 0 24 24"
+      },
+      "usage": "Shopping (购物车)",
+      "status": "verified",
+      "bytes": 679,
+      "sha256": "ac2d73ae905f0128871e1bf34b3bb8316b6aedc1bed6a88e905fda8c47f8a1a1",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-check",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2382"
+      ],
+      "localPath": "svg/icon-check.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Check-one (校验)",
+      "status": "verified",
+      "bytes": 538,
+      "sha256": "61fe8dde79002170a3e93e257cc87a589be5330586deacd596b8648ca9ef695b",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-condition-chevron",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2345"
+      ],
+      "localPath": "svg/icon-condition-chevron.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Frame 2147231923",
+      "status": "verified",
+      "bytes": 591,
+      "sha256": "4d5f0605b7488a204499265e4d256ff4dd53983ec5e1be87cf0a04133e58112b",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-coupon-chevron",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2375"
+      ],
+      "localPath": "svg/icon-coupon-chevron.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Frame 2147262355",
+      "status": "verified",
+      "bytes": 589,
+      "sha256": "b1f52b82981df80f79e69e29e29b065deafb2760961b8f32438755c1a048bf8f",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-customer-support",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2677;72:2571"
+      ],
+      "localPath": "svg/icon-customer-support.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "24",
+        "height": "24",
+        "viewBox": "0 0 24 24"
+      },
+      "usage": "Frame 2147231896",
+      "status": "verified",
+      "bytes": 1133,
+      "sha256": "7007ea80fa00b1cd262668ec3f41f99c55db428361a66a7b249a67d50e7ed04d",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-delivery-chevron",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2377"
+      ],
+      "localPath": "svg/icon-delivery-chevron.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Frame 2147262354",
+      "status": "verified",
+      "bytes": 589,
+      "sha256": "b1f52b82981df80f79e69e29e29b065deafb2760961b8f32438755c1a048bf8f",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-dispatch-truck",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2399"
+      ],
+      "localPath": "svg/icon-dispatch-truck.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "14",
+        "height": "14",
+        "viewBox": "0 0 14 14"
+      },
+      "usage": "svg/icon-dispatch-truck",
+      "status": "verified",
+      "bytes": 1118,
+      "sha256": "ca203a78d17abb5980015c1a3e37945500895ace30c15029997558ca4939dbb0",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-faq-expand",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2557"
+      ],
+      "localPath": "svg/icon-faq-expand.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Frame 2147262356",
+      "status": "verified",
+      "bytes": 594,
+      "sha256": "6584046ed42434fba1d98ee2e5f0204cebd39953ffb4d268ba2f2913d167e81d",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-favorite",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2677;72:2573"
+      ],
+      "localPath": "svg/icon-favorite.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "24",
+        "height": "24",
+        "viewBox": "0 0 24 24"
+      },
+      "usage": "Frame 2147231897",
+      "status": "verified",
+      "bytes": 1837,
+      "sha256": "51dd8685fc914f66d757642f75830dd7aac7b02916245bd8aee2e5db84ec9a3e",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-gallery-navigation",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2304"
+      ],
+      "localPath": "svg/icon-gallery-navigation.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "26",
+        "height": "26",
+        "viewBox": "0 0 26 26"
+      },
+      "usage": "Frame",
+      "status": "verified",
+      "bytes": 590,
+      "sha256": "3bcee86d949c433713a380d62c09320ec7ebce87ec0b5ce08f3907d6ab9e8ced",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-help",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2524"
+      ],
+      "localPath": "svg/icon-help.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Helpcenter (帮助中心)",
+      "status": "verified",
+      "bytes": 843,
+      "sha256": "1bcefe79ddb5f999cbce27ffd2f972fb49e7b78f8012fd1bcfa3dc8ee6c99d01",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-lightning",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2393"
+      ],
+      "localPath": "svg/icon-lightning.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Lightning (闪电)",
+      "status": "verified",
+      "bytes": 225,
+      "sha256": "a6afebc94753ae641ba109e4a1f2218a24c7fcdcaadf26587c82ad182b0cde9e",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-photo-expand",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2543"
+      ],
+      "localPath": "svg/icon-photo-expand.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Frame 2147262355",
+      "status": "verified",
+      "bytes": 594,
+      "sha256": "6584046ed42434fba1d98ee2e5f0204cebd39953ffb4d268ba2f2913d167e81d",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-protection",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2385"
+      ],
+      "localPath": "svg/icon-protection.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Protect (保护)",
+      "status": "verified",
+      "bytes": 394,
+      "sha256": "8b9f8b343622e8903b267cac9996e93b123c3c2354a24cbb9ffc6fc7268a86f9",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-service-chevron",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2373"
+      ],
+      "localPath": "svg/icon-service-chevron.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Frame 2147262351",
+      "status": "verified",
+      "bytes": 589,
+      "sha256": "b1f52b82981df80f79e69e29e29b065deafb2760961b8f32438755c1a048bf8f",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-share",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2327"
+      ],
+      "localPath": "svg/icon-share.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "20",
+        "height": "20",
+        "viewBox": "0 0 20 20"
+      },
+      "usage": "Share (分享)",
+      "status": "verified",
+      "bytes": 639,
+      "sha256": "55a76c574c69955b87f47e60f7199fc8e83ca4c566103d6b417c81a387db746b",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-size-chevron",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2433"
+      ],
+      "localPath": "svg/icon-size-chevron.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Frame 2147262353",
+      "status": "verified",
+      "bytes": 589,
+      "sha256": "b1f52b82981df80f79e69e29e29b065deafb2760961b8f32438755c1a048bf8f",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-time",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2388"
+      ],
+      "localPath": "svg/icon-time.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Time (时间)",
+      "status": "verified",
+      "bytes": 382,
+      "sha256": "bcd87b562f0f927e52722c6e5a8447dbe3d8824a5cd66b1666c52c0bd7bb4dfa",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "icon-variants-chevron",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2349"
+      ],
+      "localPath": "svg/icon-variants-chevron.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "12",
+        "height": "12",
+        "viewBox": "0 0 12 12"
+      },
+      "usage": "Frame 2147262354",
+      "status": "verified",
+      "bytes": 593,
+      "sha256": "125f6ec999648ea8361f81f0e8747adcb71a6dc0e04ac225dda11e65da51a67c",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "system-home-indicator",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "I72:2677;72:2562"
+      ],
+      "localPath": "svg/system-home-indicator.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "375",
+        "height": "34",
+        "viewBox": "0 0 375 34"
+      },
+      "usage": "Home Indicator",
+      "status": "verified",
+      "bytes": 194,
+      "sha256": "d50f3ac1f4a0aa09668c29e6e10fb687f62f9b6cc6864c6f7b001fd8c53c559b",
+      "hasEmbeddedRaster": false
+    },
+    {
+      "name": "system-status",
+      "category": "svg",
+      "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+      "sourceNodeIds": [
+        "72:2307"
+      ],
+      "localPath": "svg/system-status.svg",
+      "format": "svg",
+      "intrinsicSize": {
+        "width": "375",
+        "height": "44",
+        "viewBox": "0 0 375 44"
+      },
+      "usage": "Group 2036098162",
+      "status": "verified",
+      "bytes": 6427,
+      "sha256": "45f90695bdcb80f3f5b7f86cef9845c584ed234d555d644639072baa618bdd6c",
+      "hasEmbeddedRaster": false
+    }
+  ]
+}

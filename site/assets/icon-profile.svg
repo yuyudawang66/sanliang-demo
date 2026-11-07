@@ -1,0 +1,20 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#646464"/>
+<g id="Sanliang / Organized Home">
+<rect width="375" height="1051" transform="translate(-321.031 -972)" fill="white"/>
+<g id="Navigation / Bottom" clip-path="url(#clip0_31_578)">
+<g id="TabBar / Home">
+<g id="Group 2147235514">
+<circle id="Ellipse 1211726087" cx="15" cy="12" r="8.25" fill="#F7F8FB" stroke="#F7F8FB" stroke-width="1.5"/>
+<circle id="Ellipse 1211726085" cx="12" cy="12" r="8.25" stroke="black" stroke-opacity="0.55" stroke-width="1.5"/>
+<path id="Ellipse 1211726086" d="M15.998 14C15.998 14.5252 15.8946 15.0452 15.6936 15.5304C15.4926 16.0155 15.1981 16.4564 14.8267 16.8277C14.4554 17.1991 14.0145 17.4936 13.5294 17.6946C13.0442 17.8956 12.5242 17.999 11.999 17.999C11.4739 17.999 10.9538 17.8956 10.4687 17.6946C9.98347 17.4936 9.54262 17.1991 9.17128 16.8277C8.79994 16.4564 8.50538 16.0155 8.30441 15.5304C8.10344 15.0452 8 14.5252 8 14" stroke="black" stroke-opacity="0.55" stroke-width="1.5"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_31_578">
+<rect width="375" height="51" fill="white" transform="translate(-321.031 -6)"/>
+</clipPath>
+</defs>
+</svg>

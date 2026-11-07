@@ -1,0 +1,2034 @@
+[
+  {
+    "name": "hero",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "previews/hero.png",
+    "format": "png",
+    "sizeBytes": 149442,
+    "sha256": "5dc70d6e84c9e937776ad9e1ae4cd58ff244d8d9e8e72cc27e353794bc9a54ff",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "intrinsicSize": {
+      "width": 375,
+      "height": 332
+    }
+  },
+  {
+    "name": "hero-1",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2202"
+    ],
+    "localPath": "originals/hero-01.png",
+    "format": "png",
+    "sizeBytes": 191614,
+    "sha256": "10a082adf80253bfc655cab1218f668fe45ad20a3c8ef3009219b5633188ad22",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-1.png",
+    "intrinsicSize": {
+      "width": 600,
+      "height": 600
+    }
+  },
+  {
+    "name": "hero-2",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2136"
+    ],
+    "localPath": "originals/hero-02.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 36211,
+    "sha256": "c1b4f8d8fff0e86ca31b1d8cf538b47116a38da35cc4a80d78507508cb0b3e5a",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-2.png",
+    "intrinsicSize": {
+      "width": 212,
+      "height": 316
+    }
+  },
+  {
+    "name": "hero-3",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2192"
+    ],
+    "localPath": "originals/hero-03.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 86207,
+    "sha256": "01a4039f95b7c4e92c6f66abe84bd45ce5bed39c22ccb705acc727814bfc1467",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-3.png",
+    "intrinsicSize": {
+      "width": 1122,
+      "height": 1310
+    }
+  },
+  {
+    "name": "hero-4",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2192"
+    ],
+    "localPath": "originals/hero-04.png",
+    "format": "png",
+    "sizeBytes": 518868,
+    "sha256": "9dcc4ff04cd5184019c527e84b1c8e9270a6302104f55c59bc31744731b473c2",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-4.png",
+    "intrinsicSize": {
+      "width": 1122,
+      "height": 1310
+    }
+  },
+  {
+    "name": "hero-5",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2192"
+    ],
+    "localPath": "originals/hero-05.png",
+    "format": "png",
+    "sizeBytes": 52131,
+    "sha256": "5e3f5fc795c63de4a87668c354937e14099cf6ed061b6aac83637513460f7125",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-5.png",
+    "intrinsicSize": {
+      "width": 281,
+      "height": 328
+    }
+  },
+  {
+    "name": "hero-6",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2197"
+    ],
+    "localPath": "originals/hero-06.png",
+    "format": "png",
+    "sizeBytes": 35308,
+    "sha256": "2d4d33979232723c9a0bd019b76ba26387f0589ce77ae333063953ccfdc2a59e",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-6.png",
+    "intrinsicSize": {
+      "width": 240,
+      "height": 306
+    }
+  },
+  {
+    "name": "hero-7",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2187"
+    ],
+    "localPath": "originals/hero-07.png",
+    "format": "png",
+    "sizeBytes": 321521,
+    "sha256": "da9c2949b043aa8619856d3c00a73451556f918d552a980f63ee1bcfa2253d6d",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-7.png",
+    "intrinsicSize": {
+      "width": 776,
+      "height": 460
+    }
+  },
+  {
+    "name": "hero-8",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "originals/hero-08.png",
+    "format": "png",
+    "sizeBytes": 906310,
+    "sha256": "f9d4acae62f1d337ae4d6c890a30993dc3a659db728ba6653971763f60065954",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-8.png",
+    "intrinsicSize": {
+      "width": 1920,
+      "height": 730
+    }
+  },
+  {
+    "name": "hero-9",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2187"
+    ],
+    "localPath": "originals/hero-09.png",
+    "format": "png",
+    "sizeBytes": 132901,
+    "sha256": "d50b39430230dcd2457d5415de8f69bb8b59bccd3eb2495af766071247df1680",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-9.png",
+    "intrinsicSize": {
+      "width": 388,
+      "height": 230
+    }
+  },
+  {
+    "name": "hero-10",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2192"
+    ],
+    "localPath": "originals/hero-10.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 56241,
+    "sha256": "445f7a60949455f7b4ef9fefd11c499a6d2dd3ebaa756bff4d2a9efc340a3cae",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-10.png",
+    "intrinsicSize": {
+      "width": 281,
+      "height": 328
+    }
+  },
+  {
+    "name": "hero-11",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "originals/hero-11.png",
+    "format": "png",
+    "sizeBytes": 118714,
+    "sha256": "0005af7615852d623b6d716b1ff784018cf6de4ff2994560b0e80f365c91ed83",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-11.png",
+    "intrinsicSize": {
+      "width": 480,
+      "height": 183
+    }
+  },
+  {
+    "name": "hero-12",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2136"
+    ],
+    "localPath": "originals/hero-12.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 1472731,
+    "sha256": "d36b7166d6a6bfd6d1aa601130e3c6a6055a2942e905cb5650b364b2b1d8fb62",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-12.png",
+    "intrinsicSize": {
+      "width": 1696,
+      "height": 2528
+    }
+  },
+  {
+    "name": "hero-13",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2202"
+    ],
+    "localPath": "originals/hero-13.png",
+    "format": "png",
+    "sizeBytes": 70511,
+    "sha256": "f69bbb5c2014d5891c42a97c2809635d24a7cba0a7a4b7198d613b29f0e7054f",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133",
+    "pngPath": "png/hero-13.png",
+    "intrinsicSize": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "hero-1",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-01.svg",
+    "format": "svg",
+    "sizeBytes": 511,
+    "sha256": "6d8f95be7ed72c2b3a17f2844029b042a97cee0fa41cc3feb08e86d6f56db35a",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-2",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-02.svg",
+    "format": "svg",
+    "sizeBytes": 533,
+    "sha256": "7908a88465d9007f70e0b197e27e76178696ae017e8ece1a03f9c65013960aa6",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-3",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-03.svg",
+    "format": "svg",
+    "sizeBytes": 1645,
+    "sha256": "87f2854ec17055d927688f1b8cf762ff9b25ef2abb4e2e7ce19789d324ad6c4a",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-4",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-04.svg",
+    "format": "svg",
+    "sizeBytes": 746,
+    "sha256": "d07372f65bfd96911a7a0e53241147ea86113630c9f2e74c2e2779b2ebc8708a",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-5",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-05.svg",
+    "format": "svg",
+    "sizeBytes": 1191,
+    "sha256": "c8c40917d6a01fd7f1ccdd03899619c3e6750b40213630b82aa8b82fd87e3513",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-6",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-06.svg",
+    "format": "svg",
+    "sizeBytes": 677,
+    "sha256": "9f1121aac0a6deb74532cd887a443bf7f19191c797e88ee2a00746afc93cb37b",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-7",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-07.svg",
+    "format": "svg",
+    "sizeBytes": 1171,
+    "sha256": "c07cfb994154179f5ae55a7a85656d29e9da7aa70cc8a214a69bce772ce13c7a",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-8",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2168"
+    ],
+    "localPath": "svg-parts/hero-08.svg",
+    "format": "svg",
+    "sizeBytes": 831,
+    "sha256": "987b7de25aa73cd7e50cadde214c4b292af9922265f9756acd1eea65fb715311",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-9",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-09.svg",
+    "format": "svg",
+    "sizeBytes": 475,
+    "sha256": "63847c8189f9c5c69db66704e4a5883034361120360d758d50ef12f09ab776a4",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-10",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133",
+      "41:2173"
+    ],
+    "localPath": "svg-parts/hero-10.svg",
+    "format": "svg",
+    "sizeBytes": 619,
+    "sha256": "64e11c26b9926812e69311dde89153f1f1d2cec2f716a90e18a8e94202cacb0c",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-11",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-11.svg",
+    "format": "svg",
+    "sizeBytes": 536,
+    "sha256": "8d9dab25814e06b4860c0b94701bae898cb5110cf057363ecef29ad343cbdcca",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-12",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-12.svg",
+    "format": "svg",
+    "sizeBytes": 595,
+    "sha256": "c085ef1991bcb63e2e1dcd8a4500f1adfeb6cf4b28237217a8eb8f16d19e4eb9",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-13",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-13.svg",
+    "format": "svg",
+    "sizeBytes": 1191,
+    "sha256": "c1ba832fa66bc5fb77cdd00b38e6206f136e1bd932302463a58b55b28449c4b6",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-14",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-14.svg",
+    "format": "svg",
+    "sizeBytes": 1645,
+    "sha256": "00decc2c45af956ebe8d69c0e7d0f285064a9864f47aae52b2b9e7d2f0107353",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-15",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-15.svg",
+    "format": "svg",
+    "sizeBytes": 238,
+    "sha256": "58f2fe678d3d2d654df18ef4dd5464e88747a284d62e6cc30baf13281429360a",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "hero-16",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2133"
+    ],
+    "localPath": "svg-parts/hero-16.svg",
+    "format": "svg",
+    "sizeBytes": 1625,
+    "sha256": "69e50397514dd9af3b68e0f2814afcc831e5f26a6d24323ab0ad65f2425f7885",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2133"
+  },
+  {
+    "name": "products",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258"
+    ],
+    "localPath": "previews/products.png",
+    "format": "png",
+    "sizeBytes": 75442,
+    "sha256": "3767420ce345c1544139f8a457c52bac3900ae6648e7550b15a62746627f225c",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "intrinsicSize": {
+      "width": 375,
+      "height": 466
+    }
+  },
+  {
+    "name": "products-1",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258"
+    ],
+    "localPath": "originals/products-01.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 95196,
+    "sha256": "2733daec708cd149bb3b5c8da16f6afef59807aa42d12dd6b8bbd6793900ff5e",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "pngPath": "png/products-1.png",
+    "intrinsicSize": {
+      "width": 1760,
+      "height": 2347
+    }
+  },
+  {
+    "name": "products-2",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258",
+      "41:2237"
+    ],
+    "localPath": "originals/products-02.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 57176,
+    "sha256": "f1808df4783d8f60a8a316a50a7f7a70ac705b9322736d1e99e87ee9472857cb",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "pngPath": "png/products-2.png",
+    "intrinsicSize": {
+      "width": 282,
+      "height": 500
+    }
+  },
+  {
+    "name": "products-3",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258"
+    ],
+    "localPath": "originals/products-03.png",
+    "format": "png",
+    "sizeBytes": 3571710,
+    "sha256": "d5ecc4774401f7d5d256529de78e2bbbb2de718e7304a9386a1da1c583e97246",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "pngPath": "png/products-3.png",
+    "intrinsicSize": {
+      "width": 4096,
+      "height": 4096
+    }
+  },
+  {
+    "name": "products-4",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258"
+    ],
+    "localPath": "originals/products-04.png",
+    "format": "png",
+    "sizeBytes": 11795,
+    "sha256": "4a68aa922bf10b32371d74dc64821f3bc1bb0ead11ac3b1f687b2259e4f96327",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "pngPath": "png/products-4.png",
+    "intrinsicSize": {
+      "width": 220,
+      "height": 294
+    }
+  },
+  {
+    "name": "products-5",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258",
+      "41:2237"
+    ],
+    "localPath": "originals/products-05.png",
+    "format": "png",
+    "sizeBytes": 1306749,
+    "sha256": "eb96f9668cf4ce60a2aace6b43c088d3286fe291a33930ba47d7322d55e82795",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "pngPath": "png/products-5.png",
+    "intrinsicSize": {
+      "width": 1128,
+      "height": 2000
+    }
+  },
+  {
+    "name": "products-6",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258"
+    ],
+    "localPath": "originals/products-06.png",
+    "format": "png",
+    "sizeBytes": 2196198,
+    "sha256": "4e7a343a65c554ce2bdac9e718e4cab1abc614785fe20b7e94939a6baaca073b",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "pngPath": "png/products-6.png",
+    "intrinsicSize": {
+      "width": 2400,
+      "height": 2400
+    }
+  },
+  {
+    "name": "products-7",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258"
+    ],
+    "localPath": "originals/products-07.png",
+    "format": "png",
+    "sizeBytes": 53169,
+    "sha256": "24709fbe30aa212a6e4e5fc65a86bfcdfb681d61ed64d42fa4b7a510960ed381",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "pngPath": "png/products-7.png",
+    "intrinsicSize": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "products-8",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258",
+      "41:2237"
+    ],
+    "localPath": "originals/products-08.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 208114,
+    "sha256": "f11ad0a252f8b56b27c0c45dd3ec920e2532528388a94d21bb5e34e4a65daa03",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "pngPath": "png/products-8.png",
+    "intrinsicSize": {
+      "width": 1128,
+      "height": 2000
+    }
+  },
+  {
+    "name": "products-9",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258"
+    ],
+    "localPath": "originals/products-09.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 7128,
+    "sha256": "a7b4be43b808fccc56e5ac81745013666e5e42724233592a95d239664e4d8f94",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "pngPath": "png/products-9.png",
+    "intrinsicSize": {
+      "width": 220,
+      "height": 294
+    }
+  },
+  {
+    "name": "products-10",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258"
+    ],
+    "localPath": "originals/products-10.png",
+    "format": "png",
+    "sizeBytes": 530405,
+    "sha256": "a9c3efafe11bd8855137667a6e924b7adb0a58c510f257cf5d1f603eeda9c4a7",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "pngPath": "png/products-10.png",
+    "intrinsicSize": {
+      "width": 1760,
+      "height": 2347
+    }
+  },
+  {
+    "name": "products-11",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258"
+    ],
+    "localPath": "originals/products-11.png",
+    "format": "png",
+    "sizeBytes": 99145,
+    "sha256": "7fb823306d2e1ca62cc4790ea60059ba095c32872ca12ca4d8db103deb102e56",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "pngPath": "png/products-11.png",
+    "intrinsicSize": {
+      "width": 512,
+      "height": 512
+    }
+  },
+  {
+    "name": "products-12",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258",
+      "41:2237"
+    ],
+    "localPath": "originals/products-12.png",
+    "format": "png",
+    "sizeBytes": 93964,
+    "sha256": "f3bc0e13cbace398ff84eca702324ded1f04cda07bf57dbaa55edc237ec40668",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258",
+    "pngPath": "png/products-12.png",
+    "intrinsicSize": {
+      "width": 282,
+      "height": 500
+    }
+  },
+  {
+    "name": "products-1",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258"
+    ],
+    "localPath": "svg-parts/products-01.svg",
+    "format": "svg",
+    "sizeBytes": 987,
+    "sha256": "4774d82dcc67ea1a979975e47eda57fc0013ed90b33a9a10b1e6cd28fd236945",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258"
+  },
+  {
+    "name": "products-2",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2258"
+    ],
+    "localPath": "svg-parts/products-02.svg",
+    "format": "svg",
+    "sizeBytes": 1020,
+    "sha256": "8c48d3bf6da357864773898268d389085ae8a90d1eb0e9f828fef9ffe9092e8b",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2258"
+  },
+  {
+    "name": "navigation",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332"
+    ],
+    "localPath": "previews/navigation.png",
+    "format": "png",
+    "sizeBytes": 4986,
+    "sha256": "299a98ccc1048bdb5a3b818bc007b023c074cfff6cc0b8915bf92bf711643966",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332",
+    "intrinsicSize": {
+      "width": 375,
+      "height": 51
+    }
+  },
+  {
+    "name": "navigation-1",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2341",
+      "41:2347",
+      "41:2352",
+      "41:2357",
+      "41:2362"
+    ],
+    "localPath": "originals/navigation-01.png",
+    "format": "png",
+    "sizeBytes": 341165,
+    "sha256": "6f84d89b5b052e9254ca8d05f7bd6db5167bd851efae6526fc45518e6212d025",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332",
+    "pngPath": "png/navigation-1.png",
+    "intrinsicSize": {
+      "width": 1024,
+      "height": 1024
+    }
+  },
+  {
+    "name": "navigation-2",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2341",
+      "41:2347",
+      "41:2352",
+      "41:2357",
+      "41:2362"
+    ],
+    "localPath": "originals/navigation-02.png",
+    "format": "png",
+    "sizeBytes": 114327,
+    "sha256": "af0378f16a1b9ba04af6a1d0652a5bf12d1446893c14e04041c2453b44a0c90d",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332",
+    "pngPath": "png/navigation-2.png",
+    "intrinsicSize": {
+      "width": 512,
+      "height": 512
+    }
+  },
+  {
+    "name": "navigation-1",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2362"
+    ],
+    "localPath": "svg-parts/navigation-01.svg",
+    "format": "svg",
+    "sizeBytes": 373,
+    "sha256": "df113f105fbe790ed48fd3637761e8b45274554d717ab0375bdb37f42fd0d17a",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-2",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2347"
+    ],
+    "localPath": "svg-parts/navigation-02.svg",
+    "format": "svg",
+    "sizeBytes": 346,
+    "sha256": "2e0a2d962a261cadf772daab7f45702873089949f6933f9a53ed476b94e2db71",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-3",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2352"
+    ],
+    "localPath": "svg-parts/navigation-03.svg",
+    "format": "svg",
+    "sizeBytes": 350,
+    "sha256": "011cc5bc8f1da43dcff14b24b92dd8e27723524803176ad3bfcbc1fcf9e7704f",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-4",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2347"
+    ],
+    "localPath": "svg-parts/navigation-04.svg",
+    "format": "svg",
+    "sizeBytes": 321,
+    "sha256": "c8ecd343691d3241a2fbd738b0292c4a62610ae03613e3ac6407661bb8c2d99e",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-5",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2341"
+    ],
+    "localPath": "svg-parts/navigation-05.svg",
+    "format": "svg",
+    "sizeBytes": 391,
+    "sha256": "5f5cbdf9c3a405502b4fe22eb326c386fbbf791e2e85dbbe092aaf44437bf987",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-6",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2352"
+    ],
+    "localPath": "svg-parts/navigation-06.svg",
+    "format": "svg",
+    "sizeBytes": 358,
+    "sha256": "49bd376c49c925eebe56aaa8687c170e9fe17aec4595cd2680ca09a3ce1627ae",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-7",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2357"
+    ],
+    "localPath": "svg-parts/navigation-07.svg",
+    "format": "svg",
+    "sizeBytes": 281,
+    "sha256": "9cab144329dc436b4369406c51bec3df05f22566ae25bff1efe4d6479acf6400",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-8",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2362"
+    ],
+    "localPath": "svg-parts/navigation-08.svg",
+    "format": "svg",
+    "sizeBytes": 358,
+    "sha256": "e4dca3350cfe2823e8e7879270e6ad9aaf2e2e4c14507a3b0ad7c400c4904dce",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-9",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2341"
+    ],
+    "localPath": "svg-parts/navigation-09.svg",
+    "format": "svg",
+    "sizeBytes": 405,
+    "sha256": "ff5a4124d150cf40de0713bf531d0fc856d99d635548e491af3d158dfb507c88",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-10",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2341"
+    ],
+    "localPath": "svg-parts/navigation-10.svg",
+    "format": "svg",
+    "sizeBytes": 333,
+    "sha256": "ec81f1ccc2ac99078905895c9c18234b4fe04e83f42f0ec8219524108fcdb350",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-11",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2347"
+    ],
+    "localPath": "svg-parts/navigation-11.svg",
+    "format": "svg",
+    "sizeBytes": 679,
+    "sha256": "ea851160a240e65df42e2a656b235e08045253bdd768c291bcf2b37185bc2aa8",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-12",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2362"
+    ],
+    "localPath": "svg-parts/navigation-12.svg",
+    "format": "svg",
+    "sizeBytes": 479,
+    "sha256": "1167125f5a8492efbf38701ba07cd769f8a1405cdd7f7eda8b81ac2304c2d526",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-13",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2352"
+    ],
+    "localPath": "svg-parts/navigation-13.svg",
+    "format": "svg",
+    "sizeBytes": 275,
+    "sha256": "77f8971c4d8ba73f79edc7897c46c74b74289c5c31af64339d19aca29d1a80a1",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-14",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2357"
+    ],
+    "localPath": "svg-parts/navigation-14.svg",
+    "format": "svg",
+    "sizeBytes": 286,
+    "sha256": "93e4734afa5b723073379269c3bd74796d9340e645ac21a793922e03265b7b4f",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "navigation-15",
+    "category": "svg-parts",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2332",
+      "41:2357"
+    ],
+    "localPath": "svg-parts/navigation-15.svg",
+    "format": "svg",
+    "sizeBytes": 679,
+    "sha256": "3bbc4104ece6e87e8850dea85db9ec64f59fa017309529e4e68658e7adda814c",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2332"
+  },
+  {
+    "name": "home-indicator",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2368"
+    ],
+    "localPath": "previews/home-indicator.png",
+    "format": "png",
+    "sizeBytes": 355,
+    "sha256": "57d8d497f56e6acba590b5149e408308d96e84c6434ca03a17aba907d9b74038",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2368",
+    "intrinsicSize": {
+      "width": 375,
+      "height": 34
+    }
+  },
+  {
+    "name": "category-armchair",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2216"
+    ],
+    "localPath": "previews/category-armchair.png",
+    "format": "png",
+    "sizeBytes": 2233,
+    "sha256": "f1f2c3cf882fe9057c77804b8148476ac8b52771f66baa85552e20f70439914b",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2216",
+    "intrinsicSize": {
+      "width": 50,
+      "height": 62
+    }
+  },
+  {
+    "name": "category-armchair-1",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2216"
+    ],
+    "localPath": "originals/category-armchair-01.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 50317,
+    "sha256": "716169135e79ef91bb332ea74a220b0d6e99ea67a54606a294074e54f245c564",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2216",
+    "pngPath": "png/category-armchair-1.png",
+    "intrinsicSize": {
+      "width": 800,
+      "height": 784
+    }
+  },
+  {
+    "name": "category-armchair-2",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2216"
+    ],
+    "localPath": "originals/category-armchair-02.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 57815,
+    "sha256": "39e0e0861565a0214e07ba49323d05ff413cbe070254093c93e4fc9aeb1dc50b",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2216",
+    "pngPath": "png/category-armchair-2.png",
+    "intrinsicSize": {
+      "width": 400,
+      "height": 392
+    }
+  },
+  {
+    "name": "category-armchair-3",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2216"
+    ],
+    "localPath": "originals/category-armchair-03.png",
+    "format": "png",
+    "sizeBytes": 101159,
+    "sha256": "dd7613f49e20c432d54875114ec07ede67c50a081179c5259d5212d0d0a8139a",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2216",
+    "pngPath": "png/category-armchair-3.png",
+    "intrinsicSize": {
+      "width": 400,
+      "height": 392
+    }
+  },
+  {
+    "name": "category-armchair-4",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2216"
+    ],
+    "localPath": "originals/category-armchair-04.png",
+    "format": "png",
+    "sizeBytes": 393049,
+    "sha256": "6750f03e144025d5b3e862a2840242eaeb7464388a77ca77afc5436e6722d73b",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2216",
+    "pngPath": "png/category-armchair-4.png",
+    "intrinsicSize": {
+      "width": 800,
+      "height": 784
+    }
+  },
+  {
+    "name": "category-cap",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2220"
+    ],
+    "localPath": "previews/category-cap.png",
+    "format": "png",
+    "sizeBytes": 3142,
+    "sha256": "ba56209e0a2e3627dca1617355e427e9e80038d7162fd7a31bb4d69438758d32",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2220",
+    "intrinsicSize": {
+      "width": 50,
+      "height": 68
+    }
+  },
+  {
+    "name": "category-cap-1",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2220"
+    ],
+    "localPath": "originals/category-cap-01.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 46378,
+    "sha256": "233838297dc3d2b55f43a47874c6cdbf0b70cfbb64c394dededda7d515880082",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2220",
+    "pngPath": "png/category-cap-1.png",
+    "intrinsicSize": {
+      "width": 736,
+      "height": 736
+    }
+  },
+  {
+    "name": "category-cap-2",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2220"
+    ],
+    "localPath": "originals/category-cap-02.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 59920,
+    "sha256": "6ade526c61291ce2072d2af65d534f87ccadf7a64470e3b4b1c2f9f3a6efba0c",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2220",
+    "pngPath": "png/category-cap-2.png",
+    "intrinsicSize": {
+      "width": 368,
+      "height": 368
+    }
+  },
+  {
+    "name": "category-cap-3",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2220"
+    ],
+    "localPath": "originals/category-cap-03.png",
+    "format": "png",
+    "sizeBytes": 104800,
+    "sha256": "9691aba295ba3de2ebff65a6eb734d526398d3cdb4b390831e66665a618fc13f",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2220",
+    "pngPath": "png/category-cap-3.png",
+    "intrinsicSize": {
+      "width": 368,
+      "height": 368
+    }
+  },
+  {
+    "name": "category-cap-4",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2220"
+    ],
+    "localPath": "originals/category-cap-04.png",
+    "format": "png",
+    "sizeBytes": 339313,
+    "sha256": "81f80fda7c900b8baa3ce8167093fd96af3db31dbea4e943221dac992ae4faf7",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2220",
+    "pngPath": "png/category-cap-4.png",
+    "intrinsicSize": {
+      "width": 736,
+      "height": 736
+    }
+  },
+  {
+    "name": "category-side-table",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2224"
+    ],
+    "localPath": "previews/category-side-table.png",
+    "format": "png",
+    "sizeBytes": 3144,
+    "sha256": "c73fa50f4da6269573dc0c69d7e792373b7030cea0cc113de4566548add5dca4",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2224",
+    "intrinsicSize": {
+      "width": 119,
+      "height": 64
+    }
+  },
+  {
+    "name": "category-side-table-1",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2224"
+    ],
+    "localPath": "originals/category-side-table-01.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 7273,
+    "sha256": "9bc28e78cacabb2b9172d8509d4d7d963399e3487b8ed3a32b45f8e084d54828",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2224",
+    "pngPath": "png/category-side-table-1.png",
+    "intrinsicSize": {
+      "width": 360,
+      "height": 360
+    }
+  },
+  {
+    "name": "category-side-table-2",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2224"
+    ],
+    "localPath": "originals/category-side-table-02.png",
+    "format": "png",
+    "sizeBytes": 34739,
+    "sha256": "ee5bf559245b2d30dd47034cce97bcd17cb907d8f293c7231c1c9d7b932d51ca",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2224",
+    "pngPath": "png/category-side-table-2.png",
+    "intrinsicSize": {
+      "width": 360,
+      "height": 360
+    }
+  },
+  {
+    "name": "category-side-table-3",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2224"
+    ],
+    "localPath": "originals/category-side-table-03.png",
+    "format": "png",
+    "sizeBytes": 42291,
+    "sha256": "2984365b7be36bec78923d56abd87ed2b7c1defe6f427dd1f065d45f2736178d",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2224",
+    "pngPath": "png/category-side-table-3.png",
+    "intrinsicSize": {
+      "width": 360,
+      "height": 360
+    }
+  },
+  {
+    "name": "category-fragrance",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "previews/category-fragrance.png",
+    "format": "png",
+    "sizeBytes": 2420,
+    "sha256": "c03840f990c6184081c8e33bfd197f7c76de483acf494111df1a41a266b9a2f3",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "intrinsicSize": {
+      "width": 49,
+      "height": 63
+    }
+  },
+  {
+    "name": "category-fragrance-1",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-01.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 44781,
+    "sha256": "bc1eb056ae82d1268223484b3899b18389d07d386fa7850c6d1ab50eb0f32e21",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-1.png",
+    "intrinsicSize": {
+      "width": 1200,
+      "height": 1679
+    }
+  },
+  {
+    "name": "category-fragrance-2",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-02.png",
+    "format": "png",
+    "sizeBytes": 81675,
+    "sha256": "141b556b2f5652905431bc036468fba7c2cda7799dded76fe57335194222a105",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-2.png",
+    "intrinsicSize": {
+      "width": 351,
+      "height": 281
+    }
+  },
+  {
+    "name": "category-fragrance-3",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-03.png",
+    "format": "png",
+    "sizeBytes": 45200,
+    "sha256": "54fbeb8e77e6804873388884aa66b99ed192527c193233c2d0bea3ef7eeb8f82",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-3.png",
+    "intrinsicSize": {
+      "width": 300,
+      "height": 420
+    }
+  },
+  {
+    "name": "category-fragrance-4",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-04.png",
+    "format": "png",
+    "sizeBytes": 180957,
+    "sha256": "a34f587f439964b4a58ec0d171dd9f5e7ba31122f2c262bc2420d9dd123bf438",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-4.png",
+    "intrinsicSize": {
+      "width": 500,
+      "height": 500
+    }
+  },
+  {
+    "name": "category-fragrance-5",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-05.png",
+    "format": "png",
+    "sizeBytes": 287682,
+    "sha256": "e43b7970307251b57955a52da2aef8817b7e0c1cd1466a9ff5cf0e938842d70d",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-5.png",
+    "intrinsicSize": {
+      "width": 1200,
+      "height": 1679
+    }
+  },
+  {
+    "name": "category-fragrance-6",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-06.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 88818,
+    "sha256": "ce842dc88a0b1045e9f49e33ebe667482b2373dfcffe79a32d401a4e0269b22f",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-6.png",
+    "intrinsicSize": {
+      "width": 500,
+      "height": 500
+    }
+  },
+  {
+    "name": "category-fragrance-7",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-07.png",
+    "format": "png",
+    "sizeBytes": 542343,
+    "sha256": "5b967e58a1d475dcfb3f65f07c6444b7610afe3e75bbc6dc50e5680d460f9754",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-7.png",
+    "intrinsicSize": {
+      "width": 1000,
+      "height": 1000
+    }
+  },
+  {
+    "name": "category-fragrance-8",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-08.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 40715,
+    "sha256": "3df342e6c28e070ae92cac62d00d948d8d565b6386f30c1e0a1248b582ef9f01",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-8.png",
+    "intrinsicSize": {
+      "width": 810,
+      "height": 1215
+    }
+  },
+  {
+    "name": "category-fragrance-9",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-09.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 66900,
+    "sha256": "118a1f2a1d5f83292ec970cf9b4960fa96995a4b211613440f0301d83207f102",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-9.png",
+    "intrinsicSize": {
+      "width": 1000,
+      "height": 1000
+    }
+  },
+  {
+    "name": "category-fragrance-10",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-10.png",
+    "format": "png",
+    "sizeBytes": 1080189,
+    "sha256": "e819ef617d7efb5647f88c959427431cf6fa99305f741f2be481d2e5b6087f0e",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-10.png",
+    "intrinsicSize": {
+      "width": 1402,
+      "height": 1122
+    }
+  },
+  {
+    "name": "category-fragrance-11",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-11.png",
+    "format": "png",
+    "sizeBytes": 260454,
+    "sha256": "2ffa1210b2d001801d2aa01a593f0b4b021dd2cfbe3d5063265ce8e3d55111f5",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-11.png",
+    "intrinsicSize": {
+      "width": 810,
+      "height": 1215
+    }
+  },
+  {
+    "name": "category-fragrance-12",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-12.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 31575,
+    "sha256": "d7887cc4dab34f2d60c194705d6372818f67bc0db829d8e8385de18af7c42992",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-12.png",
+    "intrinsicSize": {
+      "width": 203,
+      "height": 304
+    }
+  },
+  {
+    "name": "category-fragrance-13",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-13.png",
+    "format": "png",
+    "sizeBytes": 46337,
+    "sha256": "9ec10fe810ec87f05113d634538877fecb4a1d8c9ad7d5ae8e2e25a94cd0c3a0",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-13.png",
+    "intrinsicSize": {
+      "width": 203,
+      "height": 304
+    }
+  },
+  {
+    "name": "category-fragrance-14",
+    "category": "originals",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2229"
+    ],
+    "localPath": "originals/category-fragrance-14.jpeg",
+    "format": "jpeg",
+    "sizeBytes": 29097,
+    "sha256": "ca20359648087e0380f2d5672d090fff562cfab7a71580b24e21e3581a5d2d10",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2229",
+    "pngPath": "png/category-fragrance-14.png",
+    "intrinsicSize": {
+      "width": 300,
+      "height": 420
+    }
+  },
+  {
+    "name": "category-handbag",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2237"
+    ],
+    "localPath": "previews/category-handbag.png",
+    "format": "png",
+    "sizeBytes": 2949,
+    "sha256": "c61ba3a59ef92049e82dd97d598497fd729bedf8eca83fc5f563058cb9ec42e5",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2237",
+    "intrinsicSize": {
+      "width": 50,
+      "height": 68
+    }
+  },
+  {
+    "name": "icon-collection",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2341"
+    ],
+    "localPath": "svg/icon-collection.svg",
+    "format": "svg",
+    "sizeBytes": 1075,
+    "sha256": "2d7e5f89931b307f7125e6eadbc3bd7b55205d862ea6982eb0639e87a4a3b744",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2341"
+  },
+  {
+    "name": "icon-shopping-bag",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2347"
+    ],
+    "localPath": "svg/icon-shopping-bag.svg",
+    "format": "svg",
+    "sizeBytes": 1330,
+    "sha256": "ad3d313db6b3f7144df0039477844f4c9214c61e28e16fea9d5f632895a7e237",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2347"
+  },
+  {
+    "name": "icon-home",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2352"
+    ],
+    "localPath": "svg/icon-home.svg",
+    "format": "svg",
+    "sizeBytes": 836,
+    "sha256": "df2a6b8876452a198d9964d5032428f8670f4c93fc05f33cf65514f3dd26cd41",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2352"
+  },
+  {
+    "name": "icon-profile",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2357"
+    ],
+    "localPath": "svg/icon-profile.svg",
+    "format": "svg",
+    "sizeBytes": 1223,
+    "sha256": "4c73e64abb6672f74d607b9f490dce6fd3d5815cb97a2a9e5786e6673d55231d",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2357"
+  },
+  {
+    "name": "icon-sell",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2362"
+    ],
+    "localPath": "svg/icon-sell.svg",
+    "format": "svg",
+    "sizeBytes": 1374,
+    "sha256": "ea86ea3e00c6bfaeda5c6f14f6f8f552373a02d88475970795bc66d81c869e73",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2362"
+  },
+  {
+    "name": "icon-search",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2168"
+    ],
+    "localPath": "svg/icon-search.svg",
+    "format": "svg",
+    "sizeBytes": 966,
+    "sha256": "bfd2e19f8d08082dd1683a8e2ee3ea250c8cc5dec3231663f8fa14ed633dba42",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2168"
+  },
+  {
+    "name": "icon-scan",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2173"
+    ],
+    "localPath": "svg/icon-scan.svg",
+    "format": "svg",
+    "sizeBytes": 770,
+    "sha256": "e2f57f106a03bbb95ffdb97e8c1694f49cc6f8569119c717e31560155e66b1db",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2173"
+  },
+  {
+    "name": "image-hero",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2136"
+    ],
+    "localPath": "png/image-hero.png",
+    "format": "png",
+    "sizeBytes": 147482,
+    "sha256": "14ee2b7c11daa2d55fdcdfaecdae567dc292278712f125164bfec7f55439d626",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2136",
+    "intrinsicSize": {
+      "width": 375,
+      "height": 332
+    }
+  },
+  {
+    "name": "image-miumiu-sneaker",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2187"
+    ],
+    "localPath": "png/image-miumiu-sneaker.png",
+    "format": "png",
+    "sizeBytes": 2068,
+    "sha256": "022b538fac3569d1ee4b29c2b0a8082252a64bed34d72da95c2b21743cdd75a5",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2187",
+    "intrinsicSize": {
+      "width": 38,
+      "height": 23
+    }
+  },
+  {
+    "name": "image-chanel-handbag",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2192"
+    ],
+    "localPath": "png/image-chanel-handbag.png",
+    "format": "png",
+    "sizeBytes": 4116,
+    "sha256": "9c5f6e4d03fa61909a3d47cf8ccd950ef2e4e9f32874094398caf71c595deeb4",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2192",
+    "intrinsicSize": {
+      "width": 61,
+      "height": 61
+    }
+  },
+  {
+    "name": "image-dior-handbag",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2197"
+    ],
+    "localPath": "png/image-dior-handbag.png",
+    "format": "png",
+    "sizeBytes": 1438,
+    "sha256": "d18fb094c984152cef9dc84695d8d4164da5249546e93d789ed5d0c6ddb639e2",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2197",
+    "intrinsicSize": {
+      "width": 38,
+      "height": 43
+    }
+  },
+  {
+    "name": "image-elie-perfume",
+    "category": "render",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2202"
+    ],
+    "localPath": "png/image-elie-perfume.png",
+    "format": "png",
+    "sizeBytes": 1254,
+    "sha256": "cec04d03c29ca94adc4f08c29beadf7cfd9d5b677054d9d7929c46eee023440b",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2202",
+    "intrinsicSize": {
+      "width": 32,
+      "height": 32
+    }
+  },
+  {
+    "name": "category-handbag.png",
+    "category": "cutout",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2239"
+    ],
+    "localPath": "png/category-handbag.png",
+    "format": "png",
+    "sizeBytes": 2371,
+    "sha256": "7de08ffbbe65a5224ea470f6e4639c0d3d237d65598ae10261d5961f8fee935c",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2239",
+    "intrinsicSize": {
+      "width": 40,
+      "height": 42
+    }
+  },
+  {
+    "name": "category-side-table.png",
+    "category": "cutout",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2228"
+    ],
+    "localPath": "png/category-side-table.png",
+    "format": "png",
+    "sizeBytes": 1916,
+    "sha256": "a3836c238c3e025a6a6f026b4cf62d36c4bbcac6bc0cd2bb2f747ac0b17ae7fb",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2228",
+    "intrinsicSize": {
+      "width": 39,
+      "height": 35
+    }
+  },
+  {
+    "name": "category-cap.png",
+    "category": "cutout",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2223"
+    ],
+    "localPath": "png/category-cap.png",
+    "format": "png",
+    "sizeBytes": 2137,
+    "sha256": "bab5ffe567d28b90255d772caeb7cb357dddae3b567736dd15e12ca2c645cb09",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2223",
+    "intrinsicSize": {
+      "width": 39,
+      "height": 39
+    }
+  },
+  {
+    "name": "category-fragrance.png",
+    "category": "cutout",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2236"
+    ],
+    "localPath": "png/category-fragrance.png",
+    "format": "png",
+    "sizeBytes": 1435,
+    "sha256": "419829ed731e4b5b89cc2e964ddaaddeca4bfddc04012d17144b30ddca90bffd",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2236",
+    "intrinsicSize": {
+      "width": 29,
+      "height": 36
+    }
+  },
+  {
+    "name": "category-armchair.png",
+    "category": "cutout",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "41:2219"
+    ],
+    "localPath": "png/category-armchair.png",
+    "format": "png",
+    "sizeBytes": 1339,
+    "sha256": "1cee661489aa1b52107881d756f75aaf27a8e0201d91edea8b7cabe29fa26f3e",
+    "status": "downloaded",
+    "usage": "Sanliang / Organized Home / 41:2219",
+    "intrinsicSize": {
+      "width": 36,
+      "height": 31
+    }
+  },
+  {
+    "nodeId": "41:2298",
+    "format": "png",
+    "sizeBytes": 12750,
+    "path": "png/product-flap-bag.png",
+    "category": "cutout",
+    "sourceNodeIds": [
+      "41:2298"
+    ],
+    "usage": "Main component source for product instances on 41:2132",
+    "localPath": "png/product-flap-bag.png",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "status": "downloaded",
+    "intrinsicSize": {
+      "width": 158,
+      "height": 101
+    }
+  },
+  {
+    "nodeId": "41:2287",
+    "format": "png",
+    "sizeBytes": 13101,
+    "path": "png/product-shoulder-bag.png",
+    "category": "cutout",
+    "sourceNodeIds": [
+      "41:2287"
+    ],
+    "usage": "Main component source for product instances on 41:2132",
+    "localPath": "png/product-shoulder-bag.png",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "status": "downloaded",
+    "intrinsicSize": {
+      "width": 158,
+      "height": 158
+    }
+  },
+  {
+    "nodeId": "41:2269",
+    "format": "png",
+    "sizeBytes": 23090,
+    "path": "png/product-embossed-handbag.png",
+    "category": "cutout",
+    "sourceNodeIds": [
+      "41:2269"
+    ],
+    "usage": "Main component source for product instances on 41:2132",
+    "localPath": "png/product-embossed-handbag.png",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "status": "downloaded",
+    "intrinsicSize": {
+      "width": 151,
+      "height": 156
+    }
+  },
+  {
+    "nodeId": "41:2316",
+    "format": "png",
+    "sizeBytes": 8852,
+    "path": "png/product-monogram-bag.png",
+    "category": "cutout",
+    "sourceNodeIds": [
+      "41:2316"
+    ],
+    "usage": "Main component source for product instances on 41:2132",
+    "localPath": "png/product-monogram-bag.png",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "status": "downloaded",
+    "intrinsicSize": {
+      "width": 138,
+      "height": 73
+    }
+  },
+  {
+    "nodeId": "41:2299",
+    "format": "svg",
+    "sizeBytes": 1203,
+    "path": "svg/icon-heart.svg",
+    "category": "cutout",
+    "sourceNodeIds": [
+      "41:2299"
+    ],
+    "usage": "Main component source for product instances on 41:2132",
+    "localPath": "svg/icon-heart.svg",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "status": "downloaded"
+  },
+  {
+    "nodeId": "41:2302",
+    "format": "svg",
+    "sizeBytes": 6322,
+    "path": "svg/badge-condition.svg",
+    "category": "cutout",
+    "sourceNodeIds": [
+      "41:2302"
+    ],
+    "usage": "Main component source for product instances on 41:2132",
+    "localPath": "svg/badge-condition.svg",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "status": "downloaded"
+  }
+]

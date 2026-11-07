@@ -1,0 +1,146 @@
+[
+  {
+    "name": "icon-back",
+    "category": "svg",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "60:2013"
+    ],
+    "localPath": "assets/search-suggestions/icon-back.svg",
+    "format": "svg",
+    "usage": "Search suggestions page / icon-back",
+    "status": "verified",
+    "bytes": 365,
+    "sha256": "f1621e809956cdf57473a3a590f8184509132c99fa2b408e1ebc9da15ae8fc15",
+    "intrinsicSize": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    },
+    "modification": "Removed export backdrop rectangles only; glyph paths and intrinsic dimensions preserved."
+  },
+  {
+    "name": "icon-chevron-right",
+    "category": "svg",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "I60:2092;60:2089"
+    ],
+    "localPath": "assets/search-suggestions/icon-chevron-right.svg",
+    "format": "svg",
+    "usage": "Search suggestions page / icon-chevron-right",
+    "status": "verified",
+    "bytes": 221,
+    "sha256": "03be1b0802771186c7a7b94417f1233d3c63f67752fb12c5dce84b04179ebd25",
+    "intrinsicSize": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    }
+  },
+  {
+    "name": "icon-clear",
+    "category": "svg",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "60:2017"
+    ],
+    "localPath": "assets/search-suggestions/icon-clear.svg",
+    "format": "svg",
+    "usage": "Search suggestions page / icon-clear",
+    "status": "verified",
+    "bytes": 626,
+    "sha256": "ccc841e391a5a8cc921ae86b2a51028696a9c240741c780c55c58b811208ffb7",
+    "intrinsicSize": {
+      "width": "18",
+      "height": "18",
+      "viewBox": "0 0 18 18"
+    },
+    "modification": "Removed export backdrop rectangles only; glyph paths and intrinsic dimensions preserved."
+  },
+  {
+    "name": "icon-search",
+    "category": "svg",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "60:2021"
+    ],
+    "localPath": "assets/search-suggestions/icon-search.svg",
+    "format": "svg",
+    "usage": "Search suggestions page / icon-search",
+    "status": "verified",
+    "bytes": 872,
+    "sha256": "77790ff32f96e652bb3941927854ef4514c2bf2915d0fc75b033b19f24b82060",
+    "intrinsicSize": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    },
+    "modification": "Removed export backdrop rectangles only; glyph paths and intrinsic dimensions preserved."
+  },
+  {
+    "name": "logo-chanel",
+    "category": "svg",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "I60:2092;60:2076"
+    ],
+    "localPath": "assets/search-suggestions/logo-chanel.svg",
+    "format": "svg",
+    "usage": "Search suggestions page / logo-chanel",
+    "status": "verified",
+    "bytes": 21566,
+    "sha256": "ff6d544416a8eacfe470d1af765a35e7aa07e4b24be85893654ec52373d50bc0",
+    "intrinsicSize": {
+      "width": "34",
+      "height": "34",
+      "viewBox": "0 0 34 34"
+    }
+  },
+  {
+    "name": "system-home-indicator",
+    "category": "svg",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "60:2031"
+    ],
+    "localPath": "assets/search-suggestions/system-home-indicator.svg",
+    "format": "svg",
+    "usage": "Search suggestions page / system-home-indicator",
+    "status": "verified",
+    "bytes": 592,
+    "sha256": "65a45eef9bca87930105cc532d6f3eea1408e0523962ae421e9b2edce7591747",
+    "intrinsicSize": {
+      "width": "375",
+      "height": "34",
+      "viewBox": "0 0 375 34"
+    }
+  },
+  {
+    "name": "system-status",
+    "category": "svg",
+    "sourceFileKey": "JCmSMx8NJtbgAo4yMsaFSt",
+    "sourceNodeIds": [
+      "60:2000"
+    ],
+    "localPath": "assets/search-suggestions/system-status.svg",
+    "format": "svg",
+    "usage": "Search suggestions page / system-status",
+    "status": "verified",
+    "bytes": 6948,
+    "sha256": "fda109889031f3a038945d66209456afcc414ab39c073975ed90a611e72352f0",
+    "intrinsicSize": {
+      "width": "375",
+      "height": "44",
+      "viewBox": "0 0 375 44"
+    }
+  },
+  {
+    "name": "noto-sans-sc-suggestions",
+    "localPath": "assets/search-suggestions/noto-sans-sc-suggestions.ttf",
+    "source": "Google Fonts / Noto Sans SC, weight 500, requested glyph subset",
+    "license": "OFL.txt",
+    "sha256": "ef424d2d7987ad11a6004ea365dcad7776cc9bfca61846861f84e3fb4e1c40d3",
+    "bytes": 47624
+  }
+]

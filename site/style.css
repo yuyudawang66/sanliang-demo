@@ -1,0 +1,86 @@
+*{box-sizing:border-box}html{background:#e8e8e8;scroll-behavior:smooth}body{margin:0;color:#111;font-family:"Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif}button,input{font:inherit}button{border:0;background:none;padding:0;color:inherit;cursor:pointer}button:focus-visible,input:focus-visible{outline:2px solid #008a8a;outline-offset:3px}button:active{opacity:.65}img{vertical-align:middle}p,h1,h2{margin:0}.app{width:100%;max-width:375px;margin:auto;background:white;min-height:100vh;overflow:hidden}.hero{height:332px;position:relative;color:white;background:#191919 url('assets/image-hero.png') center bottom/375px 332px no-repeat}.hero:before{content:"";position:absolute;inset:0 0 auto;height:125px;background:linear-gradient(#000a,transparent);pointer-events:none}.status{height:44px;display:flex;justify-content:space-between;align-items:center;padding:0 27px 0 45px;font-size:16px;position:relative}.status span{letter-spacing:1px;font-size:16px}.wordmark{position:relative;margin-left:17px;line-height:22px;font-size:17.5px;color:#ffffffe6}.wordmark span{font-size:12px;margin-left:7px;color:#ffffffbf}.search{position:relative;display:flex;gap:13px;margin:10px 10px 0 16px;height:34px}.search label{display:flex;align-items:center;gap:9px;background:#ffffff59;padding:0 10px;flex:1;min-width:0}.search label img{flex:none}.search input{min-width:0;width:100%;background:transparent;border:0;color:white;outline:none;font-size:14px}.search input::placeholder{color:#ffffff8c}.notice{width:23px;flex:none}.headline{position:absolute;top:147px;left:28.5px}.headline h1{font-family:Georgia,serif;font-size:18px;font-weight:600;line-height:19px}.headline p{font-size:12px;margin-top:8px;line-height:13px}.headline button{margin-top:11px;border:1px solid #fff;border-radius:2px;width:82px;height:21px;font-size:10px;color:#ffffffbf}.slider-dots{display:flex;gap:4px;position:absolute;left:41px;top:235px;height:2px}.slider-dots i{width:4px;background:#dfdfdf80}.slider-dots i:first-child{width:28px;background:white}.brands{display:flex;align-items:flex-end;gap:8px;position:absolute;left:11px;right:0;top:247px;height:73px;overflow:visible}.brand{position:relative;flex:none;width:55px;height:55px;border-radius:2px 15px 2px 15px;background:#f5f5f5;box-shadow:0 4px 5px #0002;display:flex;align-items:center;justify-content:center;padding-bottom:18px}.brand>img{max-width:38px;max-height:43px;object-fit:contain}.brand>span{position:absolute;bottom:0;left:0;right:0;height:18px;line-height:18px;font-size:10px;background:linear-gradient(110deg,#929292,#a1a5a9);border-radius:0 0 2px 15px}.brand b{position:absolute;top:-2px;right:-3px;background:#000;color:#00eded;font-size:6px;line-height:10px;padding:0 3px;border-radius:3px}.brand.feature{width:167px;background:linear-gradient(103deg,#929292,#acaeb1)}.brand.feature>img{position:absolute;left:13px;bottom:10px;max-width:none;max-height:none;width:63px;height:63px;border:1px solid white;border-radius:4px;background:#f5f6f7}.brand.feature>span{background:none;left:87px;top:10px;text-align:left;font-size:16px;line-height:16px}.brand small{display:block;font-size:10px;white-space:nowrap;margin-top:7px;color:#ffffff8c}.editorial{height:45px;display:flex;justify-content:space-between;padding:0 19px;border-bottom:1px solid #eee}.editorial button{position:relative;font-size:14px;color:#0008;white-space:nowrap}.editorial button:nth-child(2){color:#111;letter-spacing:2px}.editorial .active{color:#111;font-weight:500}.editorial .active:after{content:"";position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:22px;height:2px;background:#111}.categories{display:flex;justify-content:space-between;height:96px;padding:12px 19px 0;gap:10px}.categories button{font-size:12px;white-space:nowrap;color:#000b;display:flex;align-items:center;flex-direction:column;gap:10px}.categories button>span{position:relative;display:flex;align-items:center;justify-content:center;width:43px;height:46px}.categories button>span:before{content:"";position:absolute;top:18px;inset-inline:0;height:28px;background:linear-gradient(#f3f4f5,#f3f4f540);border-radius:4px}.categories img{position:relative;max-width:40px;max-height:42px;object-fit:contain}.categories [data-category="home"] img{margin-top:4px}.categories button.selected{color:#008080}.sort{display:flex;justify-content:space-between;padding:0 18px;height:27px;border-bottom:1px solid #eee}.sort button{font-size:14px;color:#0008;padding-bottom:9px;line-height:17px}.sort .active{color:#111}.products{min-height:466px;height:auto;overflow:visible;display:grid;grid-template-columns:1fr 1fr;gap:6px;background:#f5f6fa;position:relative}.column{display:flex;flex-direction:column;gap:8px;min-width:0}.card{height:220px;flex:none;background:white;border-radius:2px;position:relative;padding:0 10px;cursor:pointer}.card.tall{height:270px}.product-image{height:136px;position:relative;margin:0 -10px}.tall .product-image{height:186px}.product-image>img{position:absolute;object-fit:contain;left:50%;transform:translateX(-50%);top:27px;max-width:90%}.card[data-id="shoulder"] .product-image>img{top:24px}.card[data-id="monogram"] .product-image>img{top:45px}.card .condition{position:absolute;left:6px;top:6px;width:26px;height:14px;background:#00eded;border-radius:4px 0 4px 0;color:#005362;font-size:10px;line-height:14px;text-align:center}.heart{position:absolute;right:8px;top:8px;width:24px;height:24px;z-index:1;display:grid;place-items:center}.heart img{width:15.3236px;height:13.38px;object-fit:contain;flex:none}.eyebrow{font-size:10px;line-height:10px;color:#d09e48}.card h2{font-size:14px;line-height:14px;font-weight:500;margin-top:8px}.card .meta{font-size:10px;color:#0006;line-height:10px;margin-top:8px}.price{font-size:14px;line-height:14px;margin-top:8px}.price small{font-size:10px}.empty{position:absolute;inset:0;text-align:center;padding:48px 20px;color:#777;font-size:13px}.empty[hidden]{display:none}footer{background:white}.bottom-nav{height:51px;border-top:.5px solid #0002;display:flex;padding:0 4px}.bottom-nav button{flex:1;display:flex;align-items:center;flex-direction:column;justify-content:flex-start;padding-top:5px;gap:3px;font-size:12px;line-height:12px;color:#0006}.bottom-nav img{object-fit:contain;height:25px;width:28px}.bottom-nav .active{color:#111}.home-indicator{height:34px;display:flex;align-items:flex-end;justify-content:center;padding-bottom:8px}.home-indicator i{width:134px;height:5px;border-radius:5px;background:black}.toast{position:fixed;bottom:40px;left:50%;transform:translateX(-50%);background:#222e;color:#fff;border-radius:8px;padding:12px 18px;font-size:13px;max-width:320px;text-align:center;opacity:0;pointer-events:none;transition:opacity .2s;z-index:10}.toast.visible{opacity:1}dialog{border:0;border-radius:16px;width:min(340px,90vw);padding:24px}dialog::backdrop{background:#0008}.close{position:absolute;right:14px;top:10px;font-size:26px}.detail-image{display:block;max-width:180px;height:180px;object-fit:contain;margin:16px auto 24px}dialog h2{font-size:20px;margin:12px 0}dialog p{font-size:13px;color:#777;margin:12px 0}.detail-note{line-height:1.6}.detail-save{width:100%;padding:13px;background:#111;color:white;border-radius:4px;margin-top:12px}@media(max-width:374px){.categories{padding-inline:12px;gap:4px}.editorial{padding-inline:14px}.brand.feature{width:150px}.brand.feature>span{left:80px;font-size:14px}}@media(min-width:600px){.app{box-shadow:0 0 50px #0001}}
+/* Display geometry follows the original Figma slots; bitmap files are 3x. */
+.card[data-id="flap"] .product-image>img{width:158px;height:101px}
+.card[data-id="shoulder"] .product-image>img{width:158px;height:158px}
+.card[data-id="embossed"] .product-image>img{width:150.34px;height:155.99px}
+.card[data-id="monogram"] .product-image>img{width:138px;height:73px}
+.brand[data-brand="MIUMIU"]>img{width:38px;height:23px}
+.brand[data-brand="DIOR"]>img{width:38px;height:43px}
+.brand[data-brand="ELIE"]>img{width:32px;height:32px}
+.categories [data-category="bag"] img{width:39.73px;height:41.23px}
+.categories [data-category="decor"] img{width:38.32px;height:34.67px}
+.categories [data-category="accessory"] img{width:38.02px;height:38.93px}
+.categories [data-category="home"] img{width:35.96px;height:31px}
+.categories [data-category="fragrance"] img{width:28.4px;height:36px}
+.bottom-nav img{width:auto;height:auto;max-width:28px;max-height:25px}
+
+
+/* Transparent source artwork is clipped inside its own product slot. */
+.status{padding:0;display:block}
+.status>img{display:block;width:100%;height:44px;object-fit:contain}
+.brand-media{position:absolute;inset:0 0 18px;overflow:hidden;border-radius:2px 15px 0 0;pointer-events:none}
+.brand-media>img{position:absolute;object-fit:contain;max-width:none;max-height:none}
+.brand[data-brand="MIUMIU"] .brand-media>img{width:36.15px;height:21.27px;left:9px;top:8.94px}
+.brand[data-brand="DIOR"] .brand-media>img{width:38px;height:43px;object-fit:cover;left:9px;top:-4px}
+.brand[data-brand="ELIE"] .brand-media>img{width:32px;height:32px;left:12px;top:2px}
+.brand.feature .brand-media{inset:auto;left:13px;top:-18px;width:63px;height:63px;background:#f5f6f7;border:1px solid white;border-radius:4px}
+.brand.feature .brand-media>img{width:74px;height:86.4px;left:-6px;top:-8px;object-fit:fill}
+
+
+.wordmark .brand-name{font-family:"CangJiGuoMiaoHei",sans-serif;font-size:17.5px;font-weight:400;line-height:22px;margin:0;color:#ffffffe6}
+
+.categories .category-art{position:absolute;left:50%;transform:translateX(-50%);display:block;overflow:hidden;background:transparent}
+.categories .category-art>img{position:absolute;max-width:none;max-height:none;margin:0;object-fit:fill}
+.editorial .autumn-tab{font-family:"CangJiGuoMiaoHei",sans-serif;font-weight:400;letter-spacing:2px}
+.art-handbag{width:39.73px;height:41.23px;top:0px}.categories .art-handbag>img{width:46.3448px;height:82.1717px;left:-2.9582px;top:-27.8663px}
+.art-side-table{width:38.32px;height:34.67px;top:5px}.categories .art-side-table>img{width:72.2262px;height:72.2262px;left:-17.0534px;top:-30.6152px}
+.art-cap{width:38.02px;height:38.93px;top:0px}.categories .art-cap>img{width:48.3294px;height:48.3294px;left:-4.8592px;top:-6.2757px}
+.art-armchair{width:35.96px;height:31px;top:7px}.categories .art-armchair>img{width:35.9942px;height:35.2743px;left:-0.1746px;top:-1.7097px}
+.art-fragrance{width:28.4px;height:36px;top:5px}.categories .art-fragrance>img{width:38.8140px;height:54.3073px;left:-5.2070px;top:-7.0189px}
+
+.condition .condition-text{font-family:"CangJiGuoMiaoHei",sans-serif;font-weight:400;font-synthesis:none}
+
+/* Layout invariants shared by all filter states and viewport sizes. */
+:root{--page-width:375px;--column-gap:6px;--card-gap:8px;--nav-height:85px}
+.app{padding-bottom:var(--nav-height)}
+footer{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:min(100%,var(--page-width));z-index:5;padding-bottom:env(safe-area-inset-bottom,0px)}
+.products{gap:var(--column-gap);padding-bottom:8px}
+.column{gap:var(--card-gap)}
+.card{overflow:hidden}
+.heart{width:32px;height:32px;right:4px;top:4px}
+.categories{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:0}
+.categories button{width:100%;min-width:0;font-size:12px}
+.categories button>span{flex:none}
+.categories .category-art{flex:none}
+.condition{display:inline-flex;align-items:center;justify-content:center;white-space:nowrap;gap:0}
+.condition-number{font-family:Arial,sans-serif}
+button:focus-visible,.card:focus-visible{outline:2px solid #008a8a;outline-offset:-2px}
+dialog{max-height:calc(100dvh - 32px);overflow:auto}
+body:has(dialog[open]){overflow:hidden}
+.product-image>img{height:auto;max-width:calc(100% - 24px)}
+.image-failed{visibility:hidden}
+.card:has(.image-failed) .product-image:after{content:"图片暂时无法加载";position:absolute;inset:40% 0 auto;text-align:center;font-size:12px;color:#777}
+@media(max-width:359px){.categories{padding-inline:8px}.categories button{font-size:11px}.editorial{padding-inline:12px}.editorial button{font-size:13px}.card h2{font-size:13px}.wordmark>span:last-child{font-size:11px}.brand.feature{width:150px}.brands{overflow-x:auto;overflow-y:clip;scrollbar-width:none;padding-top:18px;top:229px;height:91px}.brand.feature .brand-media{top:0}.headline{left:24px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.toast{transition:none}}
+
+.empty #reset-filters{display:block;margin:20px auto 0;padding:10px 18px;border:1px solid #999;border-radius:4px;color:#111;background:white}
+html{scrollbar-width:none}html::-webkit-scrollbar,body::-webkit-scrollbar{display:none}
+
+.app{padding-bottom:calc(var(--nav-height) + env(safe-area-inset-bottom,0px))}
+
+/* Match the Figma category endpoints, rather than centering five equal cells. */
+.categories{display:flex;justify-content:space-between;padding-inline:19px}
+.categories button{flex:0 0 49.785px;width:49.785px}
+.brand>.discount-tag{position:absolute;left:41px;right:auto;top:-2px;bottom:auto;width:18px;height:10px;background:none;border-radius:0;line-height:normal;text-align:left;z-index:2}
+.discount-tag .tag-shape{position:absolute;left:.3574px;top:0}
+.discount-tag .tag-hole{position:absolute;left:2px;top:4px}
+.discount-tag .tag-label{position:absolute;left:6px;top:2px;font-family:"Noto Sans SC","PingFang SC",sans-serif;font-size:6px;font-weight:500;line-height:6px;color:#00eded;white-space:nowrap}
+@media(max-width:359px){.categories{padding-inline:12px}.categories button{flex-basis:48px;width:48px}}
+/* Calibrate the supplied font to the original 70 × 22px wordmark slot. */
+.wordmark{position:absolute;left:17px;top:44px;margin:0;width:calc(100% - 34px);height:22px;line-height:22px;white-space:nowrap}
+.wordmark .brand-name{display:block;position:absolute;left:0;top:0;width:70px;height:22px;font-size:21.875px;line-height:22px;letter-spacing:0;margin:0}
+.wordmark>span:last-child{position:absolute;left:80.994px;top:9px;margin:0;font-size:12px;line-height:12px}
+.search{position:absolute;left:16px;right:10px;top:76px;margin:0}
+
+.hero{--headline-left:28.5px}.headline,.slider-dots{left:var(--headline-left)}
+@media(max-width:359px){.hero{--headline-left:24px}}
